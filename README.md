@@ -46,5 +46,5 @@ plot(w/pi,abs(h),'ms');
 
 
 ## RESULT:
-Thus the design of low pass FIR digital filter using Hamming waveforms were 
+Thus the design of low pass FIR digital filter using Hanning waveforms were 
 plotted and output was verified.
